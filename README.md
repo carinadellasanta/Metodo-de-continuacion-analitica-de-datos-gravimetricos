@@ -1,0 +1,1 @@
+# Metodo-de-continuacion-analitica-de-datos-gravimetricos
